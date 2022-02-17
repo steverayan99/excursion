@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.header--main{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.link--cta{
+    font-family: Verdana;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.header--second{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.para{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.last{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
